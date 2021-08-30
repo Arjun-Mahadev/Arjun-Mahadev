@@ -3,7 +3,7 @@
 - 📫 How to reach me
     -->mail - arjun_mahadev@gmail.com
     -->Linkedin - https://www.linkedin.com/in/arjunblr97/
-  <h3>Profile Loading --1%--</h3>
+  <h3>Profile Loading --5%--</h3>
 
 <!---
 Arjun-Mahadev/Arjun-Mahadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
